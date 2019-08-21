@@ -36,3 +36,4 @@ def sum_array(array)
     sum + number
   end
 end
+
