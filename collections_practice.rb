@@ -30,3 +30,4 @@ def find_a(array)
     item.start_with?("a")
   end
 end
+
